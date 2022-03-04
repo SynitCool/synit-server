@@ -1,0 +1,1 @@
+web: gunicorn synit_server.synit_server.wsgi
